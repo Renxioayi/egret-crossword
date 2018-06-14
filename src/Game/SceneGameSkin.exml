@@ -51,8 +51,8 @@
 		<e:TileLayout horizontalGap="16" verticalGap="20"/>
 		</e:layout>
 	</e:Group>
-	<e:Group id="group_win" left="0" top="0" bottom="0" right="0" visible="false">
-		<e:Rect fillAlpha="0.53" x="0" y="0" width="640" height="1136"/>
+	<e:Group id="group_win" left="0" top="0" bottom="0" right="0">
+		<e:Rect fillAlpha="0.53" x="0" y="0" width="720" height="1136"/>
 		<e:Image source="Result_png" horizontalCenter="0" verticalCenter="260"/>
 		<e:Button id="btn_next" x="432" y="941">
 			<e:skinName>
