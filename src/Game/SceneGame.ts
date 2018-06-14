@@ -71,7 +71,7 @@ class SceneGame extends eui.Component{
             answerrect.SelectWord = null;//还原未选择任何字
         }
         
-        this.img_question.source = `../resource/assets/${leveldata.img}`;
+        this.img_question.source = `./resource/assets/${leveldata.img}`;
         
         
 
