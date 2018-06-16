@@ -17,7 +17,6 @@ class SceneGame extends eui.Component{
 
     public static Shared(){
         if(SceneGame.shared == null){
-            console.log(1);
             SceneGame.shared = new SceneGame();
         }
         return SceneGame.shared;
